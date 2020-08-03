@@ -37,7 +37,7 @@ My area of interest since the beginning was the Front-End part and this will onl
   
 If you want to contact me, you can send a message through my Linkedin profile.
 
-[![image-octocat](https://github.com/aline-borges/aline-borges/blob/master/yogocat_animation.gif?raw=true)](https://cdn.dribbble.com/users/364116/screenshots/1899338/yogocat_animation.gif)
+[![image-octocat](https://github.com/aline-borges/aline-borges/blob/master/gif.gif?raw=true)](https://github.com/aline-borges/aline-borges/blob/master/gif.gif?raw=true)
 
 > “It is not the language that makes programs appear simple.
 >  It is the programmer that make the language appear simple!”
