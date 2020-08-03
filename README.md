@@ -1,4 +1,4 @@
-[![banner-principal](https://github.com/aline-borges/aline-borges/blob/master/banner.png?raw=true)](https://github.com/aline-borges)
+[![banner-principal](https://github.com/aline-borges/aline-borges/blob/master/banner.png?raw=true)]()
 
 # Welcome to my profile!
 
@@ -6,14 +6,15 @@
 
 ##### 
 
-My name is Aline Borges, I'm currently an intern in web development and I'm studying technologies like React, Jest and Sass.
+My name is Aline Borges, I'm currently an intern in web development and I'm studying technologies such as React, Jest and Sass.
 
-My area of interest since the beginning was the Front-End part and this will only intensified during those years.
+
+I'm passionate about Front-End development and the more I learn, the more I like it.
 
 # 
 #
 
-[![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-algorithms.png?raw=true)](https://github.com/aline-borges)
+[![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-algorithms.png?raw=true)]()
 
   [![CodeWars](https://github.com/aline-borges/aline-borges/blob/master/codewars.png?raw=true)](https://www.codewars.com/users/AlineBorges)  [![CodePen](https://github.com/aline-borges/aline-borges/blob/master/codepen.png?raw=true)](https://codepen.io/apborges)  
   
@@ -31,7 +32,7 @@ My area of interest since the beginning was the Front-End part and this will onl
   
   I really like the layout part of an application, so I created a Behance account to post my layouts and learn from the layouts of other users I see there.
   
-  [![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-social.png?raw=true)](https://github.com/aline-borges)
+  [![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-social.png?raw=true)]()
   
   [![Linkedin](https://github.com/aline-borges/aline-borges/blob/master/linkedin.png?raw=true)](https://www.linkedin.com/in/apborges/)
   
