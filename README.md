@@ -1,4 +1,4 @@
-[![banner-principal](https://github.com/aline-borges/aline-borges/blob/master/banner.png?raw=true)]()
+[![banner-principal](https://github.com/aline-borges/aline-borges/blob/master/banner.png?raw=true)]
 
 # Welcome to my profile!
 
@@ -14,7 +14,7 @@ I'm passionate about Front-End development and the more I learn, the more I like
 # 
 #
 
-[![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-algorithms.png?raw=true)]()
+[![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-algorithms.png?raw=true)]
 
   [![CodeWars](https://github.com/aline-borges/aline-borges/blob/master/codewars.png?raw=true)](https://www.codewars.com/users/AlineBorges)  [![CodePen](https://github.com/aline-borges/aline-borges/blob/master/codepen.png?raw=true)](https://codepen.io/apborges)  
   
@@ -26,7 +26,7 @@ I'm passionate about Front-End development and the more I learn, the more I like
   
   I've been taking courses on HTML, CSS, React, Jest and looking for free knowledge on UI and UX Design, where I seek to create projects to practice learning.
   
-  [![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-templates.png?raw=true)](https://github.com/aline-borges)
+  [![banner-algorithms](https://github.com/aline-borges/aline-borges/blob/master/banner-templates.png?raw=true)]
   
   [![Behance](https://github.com/aline-borges/aline-borges/blob/master/behance.png?raw=true)](https://www.behance.net/apborges) 
   
