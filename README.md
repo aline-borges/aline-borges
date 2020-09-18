@@ -52,9 +52,6 @@ At the moment, I have some projects under construction and the links to visualiz
 
 | Project | Demo Application |
 | ------ | ------ |
+| Hurb |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://hurb-angular.netlify.app/) |
 | Github Search |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://github.com/aline-borges/github-search/) |
-| Lotofacil |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://github.com/aline-borges/lotofacil/) |
-| Aline Borges Web Site |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://github.com/aline-borges/aline-borges.github.io/) |
-| Roulette |  [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://github.com/aline-borges/roulette/) |
-| Fortress |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://github.com/aline-borges/fortress) |
 | Marvel API |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://alineborges-marvelapi.netlify.app/) |
