@@ -46,10 +46,6 @@ If you want to contact me, you can send a message through my Linkedin profile.
 
 ### My Current Projects
 
-At the moment, I have some projects under construction and the links to visualize the projects are directing to the project profile.
-
-*Except the Marvel api application that already has a demo site.
-
 | Project | Demo Application |
 | ------ | ------ |
 | Hurb |   [![Demo](https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true)](https://hurb-angular.netlify.app/) |
