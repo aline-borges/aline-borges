@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://github.com/aline-borges/aline-borges/blob/master/banner.png?raw=true">
+  <img src="https://github.com/aline-borges/aline-borges/blob/master/main-banner.png?raw=true">
 </p>
 
 # Welcome to my profile!
