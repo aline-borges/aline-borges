@@ -1,8 +1,10 @@
-![banner-principal](https://github.com/aline-borges/aline-borges/blob/master/banner.png?raw=true)
+<p align="center"> 
+  <img src="https://github.com/aline-borges/aline-borges/blob/master/main-banner.png?raw=true">
+</p>
 
 # Welcome to my profile!
 
-![Javascript since](https://github.com/aline-borges/aline-borges/blob/master/javascript.png?raw=true) ![Node since](https://github.com/aline-borges/aline-borges/blob/master/node.png?raw=true) ![React since](https://github.com/aline-borges/aline-borges/blob/master/react.png?raw=true) ![Jest since](https://github.com/aline-borges/aline-borges/blob/master/jest.png?raw=true) ![Sass since](https://github.com/aline-borges/aline-borges/blob/master/sass.png?raw=true) 
+![Javascript since](https://github.com/aline-borges/aline-borges/blob/master/javascript.png?raw=true) ![Node since](https://github.com/aline-borges/aline-borges/blob/master/node.png?raw=true) ![React since](https://github.com/aline-borges/aline-borges/blob/master/react.png?raw=true) ![Sass since](https://github.com/aline-borges/aline-borges/blob/master/sass.png?raw=true) 
 
 ##### 
 
