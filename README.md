@@ -163,7 +163,7 @@
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <a href="https://github.com/aline-borges/github-search/">
+          <a href="https://github-search-gs.netlify.app/">
             <img src="https://github.com/aline-borges/aline-borges/blob/master/demo.png?raw=true">
           </a>          
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
