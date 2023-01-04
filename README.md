@@ -11,9 +11,3 @@ I work with mobile development using react native and typescript.
 
 ##  💻 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aline-borges&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🚧 Projects
-- [Marvel API](https://alineborges-marvelapi.netlify.app/)
-- [GitHub Search](https://github-search-gs.netlify.app/)
-- [Hurb Project](https://hurb-angular.netlify.app/)
-- [Blowy App](https://snack.expo.dev/@alineborges/bfc3d7)
