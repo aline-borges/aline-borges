@@ -1,5 +1,5 @@
 #  ⚛️ ️React Native Developer 
-### 🇧🇷 Brazil, Rio de Janeiro
+### Brazil, Rio de Janeiro
 
 I work with mobile development using react native and typescript.
 
