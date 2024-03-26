@@ -3,5 +3,5 @@
 
 I work with mobile development using react native and typescript.
 
-- React Native Developer at [@appcumbuca](https://github.com/appcumbuca/) 💼 
+- React Native Developer
 - Designer lover [@behance](https://www.behance.net/apborges) 🎨
